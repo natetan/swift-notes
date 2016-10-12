@@ -101,5 +101,3 @@ if (p === p2) {
 } else {
     print("different")
 }
-
-//
