@@ -1,3 +1,7 @@
+// Yulong Tan
+// INFO 498 - IOS Development
+// Lecture 3: 10.11.16
+
 //: Playground - noun: a place where people can play
 
 import UIKit
